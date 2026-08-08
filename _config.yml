@@ -5,9 +5,9 @@ baseurl: "/-wayland-weekly-articles"
 url: "https://aliguerrero-wayland.github.io"
 markdown: kramdown
 
-author:
-  name: Wayland
-  email: info@wayland.agency
+
+name: Wayland
+email: info@wayland.agency
 
 plugins:
   - jekyll-feed
