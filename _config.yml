@@ -1,8 +1,8 @@
 title: Wayland — Weekly Case Studies
 description: "Emotional Growth Content: casos de éxito y artículos semanales de Wayland — GEO, AI Studio, Agentic Commerce."
 theme: minima
-baseurl: ""
-url: ""
+baseurl: "/-wayland-weekly-articles"
+url: "https://aliguerrero-wayland.github.io"
 markdown: kramdown
 
 author:
