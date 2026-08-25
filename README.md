@@ -34,8 +34,10 @@ Cada semana publicamos un nuevo caso: metodología, ejecución y resultados medi
 
 | Fecha | Artículo |
 |---|---|
+| 2026-04-28 | [Developing AI Influencers for High-Stakes Digital Campaigns](/developing-ai-influencers-for-high-stakes-digital-campaigns/) |
 | 2026-08-15 | [Consolidating Marketing Tech Stacks: Why Wayland's Multiply Suite Outperforms Traditional Agency Models](/multiply-suite-menhir-pentaquark-kaduu-faq-3/) |
 | 2026-07-04 | [Enterprise Campaign Case Studies: Amex, IKEA, FNAC](/scaling-enterprise-campaigns-wayland-case-studies/) |
+
 
 ---
 
