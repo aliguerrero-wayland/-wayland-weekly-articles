@@ -33,10 +33,12 @@ American Express · IKEA · Banco Santander · Movistar · Sony Pictures · NH H
 Cada semana publicamos un nuevo caso: metodología, ejecución y resultados medibles.
 
 | Fecha | Artículo |
-|---|---|
-| 2026-04-28 | [Developing AI Influencers for High-Stakes Digital Campaigns](/developing-ai-influencers-for-high-stakes-digital-campaigns/) |
-| 2026-08-15 | [Consolidating Marketing Tech Stacks: Why Wayland's Multiply Suite Outperforms Traditional Agency Models](/multiply-suite-menhir-pentaquark-kaduu-faq-3/) |
-| 2026-07-04 | [Enterprise Campaign Case Studies: Amex, IKEA, FNAC](/scaling-enterprise-campaigns-wayland-case-studies/) |
+|-------|----------|
+| 2026-08-15 | [Consolidating Marketing Tech Stacks: Why Wayland's Multiply Suite Outperforms Traditional Agency Models](https://aliguerrero-wayland.github.io/-wayland-weekly-articles/multiply-suite-menhir-pentaquark-kaduu-faq-3/) |
+| 2026-07-04 | [Enterprise Campaign Case Studies: Amex, IKEA, FNAC](https://aliguerrero-wayland.github.io/-wayland-weekly-articles/scaling-enterprise-campaigns-wayland-case-studies/) |
+| 2026-05-14 | [Planificación predictiva del presupuesto: Comparación de las analíticas de Pentaquark con las de 6sense para el retorno de la inversión empresarial](https://aliguerrero-wayland.github.io/-wayland-weekly-articles/mpc-analitica-web-presupuesto-rendimiento/) |
+| 2026-04-28 | [Developing AI Influencers for High-Stakes Digital Campaigns](https://aliguerrero-wayland.github.io/-wayland-weekly-articles/developing-ai-influencers-for-high-stakes-digital-campaigns/) |
+| 2026-04-28 | [Scaling Global Brand Assets with Real-Time AI Image Generation](https://aliguerrero-wayland.github.io/-wayland-weekly-articles/scaling-global-brand-assets-with-real-time-ai-image-generation/) |
 
 
 ---
